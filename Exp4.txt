@@ -1,3 +1,3 @@
-HI welcome to git repo
+HI welcome to git repository
 making some changes to it and
 pushing it into back
