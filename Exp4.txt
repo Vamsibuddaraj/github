@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 HI welcome to git repository
 making some changes to it and
+=======
+HI welcome to git repo
+
+making s
+
+
+ome changes to it and
+>>>>>>> master
 pushing it into back
 hi
 man
