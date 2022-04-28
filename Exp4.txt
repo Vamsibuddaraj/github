@@ -1,1 +1,3 @@
 HI welcome to git repo
+making some changes to it and
+pushing it into back
